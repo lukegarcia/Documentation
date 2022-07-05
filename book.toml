@@ -1,0 +1,6 @@
+[book]
+authors = ["Luke Garcia"]
+language = "en"
+multilingual = false
+src = "src"
+title = "firstbook"
